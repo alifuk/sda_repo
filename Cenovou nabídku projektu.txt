@@ -1,7 +1,7 @@
 Cenovou nabídku projektu
 
-400
+500
 
 
-Opce 300
+Opce 400
 Druhá opce 10
